@@ -1,0 +1,9 @@
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const USER_DETAILS = "USER_DETAILS";
+export const ALL_USERS_DETAIL = "ALL_USERS_DETAIL";
+export const ALL_FRIENDS_DETAIL = "ALL_FRIENDS_DETAIL";
+export const GET_UPLOADED_FILE = "GET_UPLOADED_FILE";
+export const MEMBER_PROFILE = "MEMBER_PROFILE";
+export const AUTH_FAILED = "AUTH_FAILED";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
+export const BUYDATA = "BUYDATA";
